@@ -1,9 +1,10 @@
 import React from 'react'
 
- function Testimonial() {
+ const Testimonial = (props) => {
+  let reviews = props.reviews;
   return (
     <div>
-      <Card>hhhh</Card>
+      <Card review = {reviews[0]}></Card>
     </div>
   )
 }

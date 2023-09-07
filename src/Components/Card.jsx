@@ -1,18 +1,41 @@
 import React from 'react'
+import { FaQuoteLeft, FaQuoteRight } from 'react-icons/fa';
 
-function Card=(props)=> {
+const Card = (props) => {
     let review = props.review;
     return (
         <div>
             <div>
 
-                <img />
+                <img src={review.image} />
             </div>
             <div>
-                <p></p>
+                <p>{review.name}</p>
             </div>
             <div>
-                <p></p>
+                <p>{review.job}</p>
+            </div>
+            <div>
+                <FaQuoteLeft />
+            </div>
+            <div>
+                {review.text}
+            </div>
+            <div>
+                <FaQuoteRight />
+            </div>
+            <div>
+                <button>
+                    +
+                </button>
+                <button>
+                    -
+                </button>
+            </div>
+            <div>
+                <button>
+                    Tourism Place
+                </button>
             </div>
         </div>
     )
