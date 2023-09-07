@@ -3,15 +3,15 @@ const reviews = [
     id: 1,
     name: "Dal Lake",
     Place: "Srinagar Kashmir",
-    image: "https://wallpapercave.com/wp/wp2678269.jpg",
-    text: "Dal is a lake in Srinagar, the summer capital of Jammu and Kashmir, India. It is an urban lake, the second largest lake in Jammu and Kashmir, and the most visited place in Srinagar by tourists and locals. It is integral to tourism and recreation in the Kashmir valley and is variously known as the ",
+    image: "https://wallpapercave.com/wp/wp2678269.jpg   " ,
+    text: "Dal is a lake in Srinagar, the summer capital of Jammu and Kashmir, India. It is an urban lake, the second largest lake in Jammu and Kashmir, and the most visited place in Srinagar by tourists and locals. It is integral to tourism and recreation in the Kashmir valley and is variously known as the... ",
   },
   {
     id: 2,
     name: "Sonamarg Hill Station",
     job: "Graphic Designer",
     image: "https://www.holidify.com/images/cmsuploads/compressed/fsbdvshd_20190104104436.jpg",
-    text: "Sonamarg or Sonmarg (Urdu pronunciation: [soːnmərg]), known as Sonamarag (Kashmiri pronunciation: [sɔnɨmarɨɡ]; lit. 'meadow of gold') in Kashmiri, is a hill station located in the Ganderbal District of Jammu and Kashmir, India. It is located about 62 kilometers from Ganderbal Town and 80 kilometres (50 mi) ….",
+    text: "Sonamarg or Sonmarg (Urdu pronunciation: [sonmərg]), known as Sonamarag (Kashmiri pronunciation: [sɔnɨmarag; lit.'meadow of gold') in Kashmiri, is a hill station located in the Ganderbal District of Jammu and Kashmir, India. It is located about 62 kilometers from Ganderbal Town and 80 kilometres (50 mi) ….",
   },
   {
     id: 3,

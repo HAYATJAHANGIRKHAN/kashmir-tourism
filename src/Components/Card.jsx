@@ -4,10 +4,11 @@ import { FaQuoteLeft, FaQuoteRight } from 'react-icons/fa';
 const Card = (props) => {
     let review = props.review;
     return (
-        <div>
-            <div>
+        <div className='flex flex-col md: relative'>
+            <div className='absolute top-[-7rem] z-[10] mx-auto2'>
 
-                <img src={review.image} />
+                <img className="aspect-square rounded-full w-[140px] h-[140px] z-25"
+                src={review.image} />
             </div>
             <div>
                 <p>{review.name}</p>
