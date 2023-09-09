@@ -18,7 +18,7 @@ const reviews = [
     name: "Gulmarg",
     Place: "Gulmarg Baramullah",
     image: "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0b/fb/c8/28.jpg",
-    text: "While Gulmarg is an all-weather resort with refreshing summer meadows and pastoral scenes to keep the camera busy, the main reason to come here, at least in winter, is the off-piste, deep-powder, long-run skiing and snowboarding. Gulmarg is one of the newest and increasingly popular ski destinations. Head here for the world highest gondola ski lift and eye-popping views great Himalayas. Gulmarg offers both amateurs and professionals a range of skiing opportunities, ideal for a great winter getaway with some great ski resorts to live at. Whether you’re planning a ski vacation or a family ski holiday...",
+    text: "While Gulmarg is an all-weather resort with refreshing summer meadows and pastoral scenes to keep the camera busy, the main reason to come here, at least in winter,  ideal for a great winter getaway with some great ski resorts to live at. Whether you’re planning a ski vacation or a family ski holiday...",
   },
   {
     id: 4,

@@ -6,10 +6,10 @@ import reviews from "./data";
 const App = () => {
   
   return (
-    <div className="flex flex-col w-[100 vh] h-[100vh] justify-center items-center bg-green-400" >
+    <div className="flex flex-col w-[100vw] h-auto justify-center items-center bg-green-400 " >
     <div className="text-center">
-      <h1 className="text-4xl font-bold">Kashmir Tourist Places</h1>
-      <div className="bg-violet-400 h-[4px] w-[1/5] mt-1"></div>
+      <h1 className="text-4xl font-bold tracking-wider  ml-28 mt-12">Kashmir Tourist Places</h1>
+      <div className="bg-violet-400 h-[4px] w-1/5 mt-1 mx-auto"></div>
       <Testimonial reviews={reviews}/>
 
     </div>
